@@ -391,7 +391,7 @@ When moving the review cursor, the System caret does not follow along, so you ca
 However, by default, when the System caret moves, the review cursor follows along.
 This can be toggled on and off.
 
-Note that by default, braille tries to follow automatically both the system carret and the review cursor. This can be configured in the [Braille Tether section #BrailleTether].
+Note: Braille following the review cursor can be configured via [Braille Tether #BrailleTether].
 
 The following commands are available for reviewing text:
 %kc:beginInclude
