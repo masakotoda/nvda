@@ -363,7 +363,7 @@ Once you navigate to an object, you can review its content using the [text revie
 When [Focus Highlight #VisionFocusHighlight] is enabled, the location of the current navigator object is also exposed visually.
 By default, the navigator object moves along with the System focus, though this behavior can be toggled on and off.
 
-Note that by default, braille tries to follow automatically both the system focus and the NVDA navigator. This can be configured in the [Braille Tether section #BrailleTether].
+Note: Braille following Object Navigation can be configured via [Braille Tether #BrailleTether].
 
 To navigate by object, use the following commands:
 
